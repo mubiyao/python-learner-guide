@@ -25,6 +25,8 @@ VS code is the platform you will do all your real coding and testing on the actu
 - After clicking link, choose your platform and download vs code to your desktop.
 
 
+
+
 ## Beginners steps to take.
 
 Take these steps after you have completed the instructions above.
