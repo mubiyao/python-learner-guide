@@ -1,6 +1,7 @@
 # Moony's Python Learner Guide
 
 This handy guide is an easy way for someone with no knowledge of python or even coding can easily learn python. 
+Follow all the steps to download the softwares based on your platform and begin coding!
 
 ## Prerequisites
 You need python installed on your system ***and/or*** an IDE that can run python or has a python enabled package (if you don't know what this is, don't worry about it.)
