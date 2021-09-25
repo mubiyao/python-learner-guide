@@ -16,6 +16,7 @@ You need python installed on your system ***and/or*** an IDE that can run python
 `MacOS` - Just get XCode from the app store, or https://www.dummies.com/programming/python/how-to-install-python-on-a-mac/   
 `Linux` - Install the python package from your package manager like `yay` `pamac` `nix` or `apt-install`
 
+
 ### Installing Visual Studio code
 
 VS code is the platform you will do all your real coding and testing on the actual code.
@@ -26,14 +27,12 @@ VS code is the platform you will do all your real coding and testing on the actu
 
 
 
-
 ## Beginners steps to take.
 
 Take these steps after you have completed the instructions above.
 
 - Look at the coded projects very carefully and pay attention to the notes (which are written with hashtags). These introduce new functions and help you understand how to use them.
 - Try to rewrite the code to understand them.
-
 - Once you feel comfortable after coding for a while, try coding your own game or project.
 
 
