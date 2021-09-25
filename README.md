@@ -9,9 +9,23 @@ You need python installed on your system ***and/or*** an IDE that can run python
 
 ### Installing Python
 
-`Windows` - https://phoenixnap.com/kb/how-to-install-python-3-windows  
-`MacOS` - Just get XCode from the Mac store, or https://www.dummies.com/programming/python/how-to-install-python-on-a-mac/   
-`Linux` - Do I even have to say it? Just install the python package from your package manager like `yay` `pamac` `nix` or `apt-install`
+**Another note** ~ These are softwares to open your coding projects from VS code (visual studio code).
 
-***More to Come Soon***
-(im to lazy to write this and its getting late)
+`Windows` - https://phoenixnap.com/kb/how-to-install-python-3-windows  
+`MacOS` - Just get XCode from the app store, or https://www.dummies.com/programming/python/how-to-install-python-on-a-mac/   
+`Linux` - Install the python package from your package manager like `yay` `pamac` `nix` or `apt-install`
+
+### Installing Visual Studio code
+
+VS code is the platform you will do all your real coding and testing on the actual code.
+
+`Download link for all platforms` ~ https://code.visualstudio.com/download
+
+- After clicking link, choose your platform and download vs code to your desktop.
+
+
+
+
+
+
+
