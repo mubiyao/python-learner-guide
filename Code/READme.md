@@ -1,6 +1,6 @@
 # Codes Examples for Beginners.
 
-These are just some examples of codes that beginners can follow. 
+These are just some examples of codes that beginners in python coding can follow. 
 
 ## Beginners steps to take.
 
