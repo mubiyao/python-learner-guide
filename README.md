@@ -25,6 +25,16 @@ VS code is the platform you will do all your real coding and testing on the actu
 - After clicking link, choose your platform and download vs code to your desktop.
 
 
+##Beginners steps to take.
+
+Take these steps after you have completed the instructions above.
+
+- Look at the coded projects very carefully and pay attention to the notes (which are written with hashtags). These introduce new functions and help you understand how to use them.
+- Try to rewrite the code to understand them.
+
+- Once you feel comfortable after coding for a while, try coding your own game or project.
+
+
 
 
 
