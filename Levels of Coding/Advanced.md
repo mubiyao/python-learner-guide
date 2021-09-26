@@ -13,6 +13,7 @@
    - elif statement
    - else statement
    - break
+   - continue
    - import ()
    - () = ()
 - Should know some extra functions for python.
