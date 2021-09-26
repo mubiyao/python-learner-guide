@@ -25,4 +25,4 @@ VS code is the platform you will do all your real coding and testing on the actu
 
 - After clicking link, choose your platform and download vs code to your desktop.
 
-After taking the steps above, read the "Python levels of coding" file to know where you are right now and where you might be in the future.
+After taking the steps above to start coding, read the "Python levels of coding" file to know where you are right now and where you might be in the future.
