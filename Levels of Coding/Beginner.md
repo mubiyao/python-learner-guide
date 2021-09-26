@@ -1,6 +1,6 @@
 # Beginner Python Coder
 
-A beginner python coder is what is determined as the following.
+**A beginner python coder is what is determined as the following.**
 
 - Has very little or no expeirience coding python.
 - Has been coding for 2 weeks or less.
