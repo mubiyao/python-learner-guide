@@ -5,7 +5,7 @@
 - Has at least a month of coding on their belt.
 - Has decent expeirience coding.
 - Can code a simple game or project by themselves.
-- Knows all the major functions as for the following
+- Knows all or majority of the major functions as for the following
    - If statements
    - While True statements
    - Print function
