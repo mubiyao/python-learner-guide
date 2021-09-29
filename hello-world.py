@@ -1,7 +1,6 @@
 print('Hello World')
 
-# introduces the "print()" function. This function requires the text you want to print in the `` inside of the () that appends the print
+# this program introduces "print()." The functions wants you to put some text in the inside of the () using ''.
+# don't get it? just copy the text above, replace the "Hello World" text with your own, and then run it!
+# this code also introduces comments, which are started by an "#." They don't affect your code, and will be used to explain a bit more about any given line of code.
 
-# expected output of code ~ Hello World
-
-# oh, and you can also use a hastag to write comments, which give insight on the code you right and don't affect the actual code you write. Very helpful for starters.
