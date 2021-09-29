@@ -38,13 +38,15 @@ print() ~ "Prints a strong of text"
 
 x = z ~ "An example of creating a variable"
 
-while xx ~ "A While Loop. While "xx" is happening, "www" and "yyy" are also happening
+while xx ~ "A While Loop. While "xx" is happening, "www" and "yyy" are also happening"
   www
   yyy
   
-if xx ~ "An If Loop. If "xx" is happening, then "www" and "yyy" has to be happening
+if xx ~ "An If Loop. If "xx" is happening, then "www" and "yyy" has to be happening"
   www
   yyy
 ```
 
-repository created by moonyaim, readme by moony, aim, and sashi
+### i dunno placeholder?
+
+repository created by moonyaim
