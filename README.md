@@ -19,10 +19,8 @@ You need python installed on your system ***and/or*** an IDE that can run python
 
 ### Installing Visual Studio code
 
-VS code is the platform you will do all your real coding and testing on the actual code.
+Visual Studio Code (or VS Code for short) is a code editor made by Microsoft for Windows, Linux and macOS. It's what my personal recommendation is for beginners to coding. It can be used for about any computer language, but it's Python Package and Github Linking is what makes it stand out.
 
 `Download link for all platforms` ~ https://code.visualstudio.com/download
 
-- After clicking link, choose your platform and download vs code to your desktop.
-
-After taking the above steps to start coding, read the "Python levels of coding" file to know where you are right now and where you might be in the future.
+> repository create by moonyaim, readme by moony, aim, and sashi
