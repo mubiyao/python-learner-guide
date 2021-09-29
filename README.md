@@ -34,7 +34,9 @@ Python 3.0 (a.k.a. "Python 3000" or "Py3k") is a new version of the language tha
 ```python
 import ~ "Imports a certain library"
 
-print() ~ "Prints a strong of text. Has to have apostrophies at the beginning and the end of the text"
+print() ~ "Prints a strong of text"
+
+
 ```
 
 repository created by moonyaim, readme by moony, aim, and sashi
