@@ -23,6 +23,18 @@ Visual Studio Code (or VS Code for short) is a code editor made by Microsoft for
 
 >`Download link for all platforms` ~ https://code.visualstudio.com/download
 
+## Quick Introduction to Python 3
 
+Python 3.0 (a.k.a. "Python 3000" or "Py3k") is a new version of the language that is incompatible with the 2.x line of releases. The language is mostly the same, but many details, especially how built-in objects like dictionaries and strings work, have changed considerably, and a lot of deprecated features have finally been removed. Also, the standard library has been reorganized in a few prominent places. (sourced from https://www.python.com)
+
+>Python 3.0 is end-of-lifed with the release of Python 3.1. All users of Python 3.0.x should upgrade to the most recent version of Python 3
+
+### Basic Python Functions
+
+```python
+import ~ "Imports a certain library"
+
+print() ~ "Prints a strong of text. Has to have apostrophies at the beginning and the end of the text"
+```
 
 repository created by moonyaim, readme by moony, aim, and sashi
