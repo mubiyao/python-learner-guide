@@ -19,15 +19,15 @@ while True:
     print("Computer picked", computer_pick + ".") # Prints what the computer picked.
 
 
-    if user_input =="rock" and computer_pick == "scissors": # If the user picks rock and the computer picks scissors, prints "You won"
+    if user_input =="rock" and computer_pick == "scissors": # If the user picks rock and the computer picks scissors, prints "You won" using the print function.
         print("You won! :D" )
         user_wins += 1 # Adds 1 to the user_wins category.
 
-    elif user_input =="paper" and computer_pick == "rock": # If the user picks paper and the computer picks rock, prints "You won"
+    elif user_input =="paper" and computer_pick == "rock": # If the user picks paper and the computer picks rock, prints "You won" using the print function.
         print("You won! :D")
         user_wins += 1 # Adds 1 to the user_wins category.
     
-    elif user_input =="scissors" and computer_pick == "paper": # If the user picks scissors and the computer picks paper, prints "You won"
+    elif user_input =="scissors" and computer_pick == "paper": # If the user picks scissors and the computer picks paper, prints "You won" using the pring function.
         print("You won! :D")
         user_wins += 1 # Adds 1 to the user_wins category.
 
@@ -39,3 +39,4 @@ while True:
 print("You won", user_wins, "times." ) # When the code ends, prints how many times the user won.
 print("The computer won,", computer_wins, "times.") # When the code ends, prints how many times the computer won.
 print("Goodbye!") # Simply prints goodbye to end the code off nicely.
+#All of these phrases above are printed using the function at the very end of the game (AKA when the code ends).
