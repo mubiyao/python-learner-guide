@@ -17,7 +17,7 @@ You need python installed on your system ***and/or*** an IDE that can run python
 >`Linux` ~ Install the python package from your package manager like `yay` `pamac` `nix` or `apt-install`
 
 
-### Installing Visual Studio Code ~ {Reccomended Editor}
+### Installing Visual Studio Code ~ {Recommended Editor}
 
 Visual Studio Code (or VS Code for short) is a code editor made by Microsoft for Windows, Linux and macOS. It's what my personal recommendation is for beginners to coding. It can be used for about any computer language, but it's Python Package and Github Linking is what makes it stand out.
 
@@ -36,7 +36,15 @@ import ~ "Imports a certain library"
 
 print() ~ "Prints a strong of text"
 
+x = z ~ "An example of creating a variable"
 
+while xx ~ "A While Loop. While "xx" is happening, "www" and "yyy" are also happening
+  www
+  yyy
+  
+if xx ~ "An If Loop. If "xx" is happening, then "www" and "yyy" has to be happening
+  www
+  yyy
 ```
 
 repository created by moonyaim, readme by moony, aim, and sashi
