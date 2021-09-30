@@ -29,7 +29,7 @@ Python 3.0 (a.k.a. "Python 3000" or "Py3k") is a new version of the language tha
 
 >Python 3.0 is end-of-lifed with the release of Python 3.1. All users of Python 3.0.x should upgrade to the most recent version of Python 3
 
-### Basic Python Functions
+## Basic Python Functions
 
 ```python
 import ~ "Imports a certain library"
@@ -45,9 +45,10 @@ while xx ~ "A While Loop. While "xx" is happening, "www" and "yyy" are also happ
 if xx ~ "An If Loop. If "xx" is happening, then "www" and "yyy" has to be happening"
   www
   yyy
+  
+x + y ~ "Adds x and y"
 ```
 
-### i dunno placeholder?
 
 
 
