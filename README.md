@@ -47,11 +47,7 @@ if xx ~ "An If Loop. If "xx" is happening, then "www" and "yyy" has to be happen
   yyy
   
 x + y ~ "Adds x and y"
+
+x - y ~ "Subtracts y from x
 ```
 
-
-
-
-
-
-> ***repository created by moonyaim and sashi boi***
