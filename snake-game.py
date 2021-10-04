@@ -2,42 +2,39 @@ import turtle # imports essiential gamering libraries
 import time
 import random
 
-delay = 0.1
+delay = 0.1 # adds delay so it doesnt make it mach10 speed gaming
 
 # Score
-score = 0
+score = 0 
 high_score = 0
 
 # Set up the screen
 wn = turtle.Screen()
-wn.title("Snake Game by @TokyoEdTech")
-wn.bgcolor("green")
-wn.setup(width=600, height=600)
+wn.title("Snake Game by The Python Learner Team")
+wn.bgcolor("black")
+wn.setup(width=600, height=600) # change if you want 1920 by 1080 or other res
 wn.tracer(0) # Turns off the screen updates
 
-# Snake head
-head = turtle.Turtle()
+head = turtle.Turtle() # paragraph of codes uses turtle to render the snake's head
 head.speed(0)
 head.shape("square")
-head.color("black")
+head.color("white")
 head.penup()
 head.goto(0,0)
 head.direction = "stop"
 
-# Snake food
-food = turtle.Turtle()
+food = turtle.Turtle() # snake's collectable
 food.speed(0)
 food.shape("circle")
 food.color("red")
 food.penup()
 food.goto(0,100)
 
-segments = []
+segments = [] # hm, this looks cool. i wonder that this does
 
-# Pen
 pen = turtle.Turtle()
 pen.speed(0)
-pen.shape("square")
+pen.shape("square") # keeps track of essientials
 pen.color("white")
 pen.penup()
 pen.hideturtle()
