@@ -10,7 +10,7 @@ You need python installed on your system ***and/or*** an IDE that can run python
 
 ### Installing Python
 
-**Another note** ~ These are softwares to open your coding projects from VS code (visual studio code).
+**Another note** ~ The are used to run python files LOCALLY, not on your IDE. Look at the WIKI for more info
 
 >`Windows` ~ https://phoenixnap.com/kb/how-to-install-python-3-windows  
 >`MacOS` ~ Just get XCode from the app store, or https://www.dummies.com/programming/python/how-to-install-python-on-a-mac/   
