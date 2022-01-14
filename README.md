@@ -1,8 +1,6 @@
 # Moony's Python Learner Guide
 
-```diff
-! THIS REPO IS NOW ARCHIVED ~ FOR FURTHER DEVELOPMENT REQUESTS CONTACT ME THROUGH DISCORD ~ aim#8565
-```
+>****THIS REPOSITORY IS NOW ARCHIVED! IF YOU WANNA SEE THIS DEVELOPED FURTHER, DM ME ON DISCORD (aim#8565)****
 
 This handy guide is an easy way for someone with no knowledge of python or even coding can easily learn python. 
 Follow all the steps to download the correct software based on your platform below!
